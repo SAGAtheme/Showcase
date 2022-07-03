@@ -1,5 +1,5 @@
 # Showcase
-A showcase for dotfile collections using the SAGA palette. 
+A showcase for dotfile collections using the [SAGA](https://github.com/SAGAtheme) palette. 
 
 
 ### AWESOME
